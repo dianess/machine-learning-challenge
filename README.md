@@ -4,13 +4,13 @@ In this Machine Learning challenge, I used the Kepler Exoplanet Data from: https
 
 Random Forest Classifier: 87.2 %
 Neural Network:           82.4 %
-Decision Tree:            82.3 %
+Decision Tree:            82.2 %
 kNN:                      80.1 %
 Logistic Regression:      65.8 %
 Support Vector Machine:   49.7 %
 Linear Regression:        35.3 %
 
-The best model, Random Forest Classifier, is included in the Jupyter Notebook titled "ML Decision Tree."
+The best model is the Random Forest Classifier in the Jupyter Notebook titled "ML Random Forest Classifier."
 
 The file MachineLearningModelRatings.xlsx includes a Pivot Chart with bar graphs for a visual display of the rating of each model.
 
