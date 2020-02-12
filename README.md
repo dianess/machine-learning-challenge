@@ -6,7 +6,7 @@ The best model is Random Forest Classifier in the "machine learning files" folde
 
 The file MachineLearningModelRatings.xlsx in the "machine learning files" folder includes a Pivot Chart with the bar graph displayed above.
 
-Details: These independent variables gave the best results for the different combinations I tried:
+Details: These independent variables gave the best results for the different combinations I tried: \
 koi_score \
 koi_period \
 koi_time0bk \
